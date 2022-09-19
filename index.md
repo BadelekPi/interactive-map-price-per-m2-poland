@@ -1,4 +1,4 @@
-### Average cost per square meter in Poland
+### Average cost per square meter property in Poland
 
 <iframe src="averagem2.html" height="500" width="500"></iframe>
 
