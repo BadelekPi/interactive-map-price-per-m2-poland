@@ -1,2 +1,7 @@
 # interactive-map-price-per-m2-poland
-Presenting average price per square meter of real estate in Poland. The map was divided into districts.
+
+Repository contains code and files for publishing a Folium map as a very simple GitHub Pages site.
+
+Presenting average cost per square meter of real estate in Poland. The map was divided into counties.
+
+
